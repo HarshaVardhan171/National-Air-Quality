@@ -106,6 +106,3 @@ Year, AQI_Bucket, City slicers
 - Public Health:	Alert systems for at-risk groups during severe AQI days
 - Awareness:	Real-time AQI display at traffic intersections and apps
 
-
-Summarize This Page 
-
